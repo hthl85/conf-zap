@@ -1,3 +1,3 @@
-module github.com/hthl85/conf-zap
+module github.com/hthl85/zapconf
 
 go 1.14
